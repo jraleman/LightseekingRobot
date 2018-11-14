@@ -1,4 +1,0 @@
-http://www.instructables.com/id/Yet-Another-Simple-Pot-controlled-555-PWM-generato/step2/What-will-be-needed/
-
-web.archive.org/web/20101121063420/http://electronicdesign.com/article/analog-and-mixed-signal/wide-range-pulse-width-modulator-uses-555-timer110.aspx
-
